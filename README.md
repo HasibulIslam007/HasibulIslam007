@@ -1,33 +1,89 @@
-<!-- =========================
-     HEADER / BANNER
-========================= -->
+<!-- =========================================================
+     MD HASIBUL ISLAM — GITHUB PROFILE README
+     Everything below works directly from README.md.
+     No local image/assets folder required.
+========================================================= -->
+
+
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="./assets/github-banner.png" alt="Md Hasibul Islam - Software Developer" width="100%" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Md Hasibul Islam</h1>
-
-<h3 align="center">
-  Full-Stack Developer • Software Engineer • Web, Mobile & AI Applications
-</h3>
-
-<p align="center">
-  CSE Graduate from BRAC University 🇧🇩
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,2,20,24,30&text=MD%20HASIBUL%20ISLAM&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn&fontColor=ffffff"
+    width="100%"
+    alt="Md Hasibul Islam"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HasibulIslam007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Next.js+%7C+Node.js+%7C+Laravel+%7C+Django;Flutter+%7C+Web+%7C+Mobile+Development;PostgreSQL+%7C+MongoDB+%7C+REST+APIs;Building+AI-Powered+Applications;Always+Learning+%7C+Always+Building"
+    alt="Typing SVG"
+  />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=HasibulIslam007&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/HasibulIslam007?label=FOLLOWERS&style=for-the-badge&logo=github"
+    alt="GitHub Followers"
+  />
+</p>
 
-## 🤝 Connect With Me
 
-<p align="left">
+<!-- ===================== PROFILE ===================== -->
+
+<table align="center">
+<tr>
+<td width="30%" align="center">
+
+<img
+  src="https://github.com/HasibulIslam007.png"
+  width="180"
+  style="border-radius:50%"
+  alt="Md Hasibul Islam"
+/>
+
+### Md Hasibul Islam
+
+**Software Developer**
+
+📍 Dhaka, Bangladesh  
+🎓 CSE — BRAC University  
+
+</td>
+
+<td width="70%">
+
+## 👨‍💻 About Me
+
+- 💻 Full-Stack Developer & Software Engineer
+- 🎓 Computer Science & Engineering graduate from **BRAC University**
+- 🔭 Currently working on **[IELTSHUB](https://github.com/HasibulIslam007/IELTSHUB)**
+- 🌱 Currently exploring **AI Agents, Cloud & Scalable Backend Systems**
+- ⚙️ Working across **Frontend, Backend, APIs, Databases & Deployment**
+- 📱 Building mobile applications with **Flutter & Dart**
+- 🤖 Interested in **AI-powered software and intelligent applications**
+- 🐳 Learning and working with **Docker, AWS & modern deployment workflows**
+- 🧠 I enjoy debugging, problem-solving and turning ideas into real products
+- 📫 **hasibulislam.bracu@gmail.com**
+
+</td>
+</tr>
+</table>
+
+
+<!-- ===================== CONNECT ===================== -->
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
 
 <a href="https://portfolio-md-hasibul-islam.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/md-hasibul-islam-ooo">
@@ -35,7 +91,7 @@
 </a>
 
 <a href="mailto:hasibulislam.bracu@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/HasibulIslam007">
@@ -44,190 +100,340 @@
 
 </p>
 
----
 
-## 👨‍💻 About Me
+<!-- ===================== TECH STACK ===================== -->
 
-- 🎓 CSE graduate from **BRAC University**
-- 💻 Full-Stack Developer with experience in modern web application development
-- 🔭 Currently working on **IELTSHUB**
-- 🌱 Currently exploring **AI Agents, scalable backend systems, Docker & cloud deployment**
-- 🚀 Interested in **Full-Stack Development, Backend Engineering, SaaS, Mobile Apps & AI Integration**
-- 📱 Building mobile applications using **Flutter & Dart**
-- 🧠 I enjoy solving real-world problems, debugging complex issues, and building practical products
-- 🤖 Interested in integrating **AI/LLM capabilities** into modern applications
-- ⚡ Comfortable working across frontend, backend, APIs, databases, authentication and deployment
-- 📫 Reach me at **hasibulislam.bracu@gmail.com**
+<h2 align="center">⚡ Languages & Technologies</h2>
 
----
+<h3 align="center">Frontend</h3>
 
-# 🛠️ Tech Stack
-
-## 🌐 Frontend
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap&perline=8" />
 </p>
 
-**React.js • Next.js • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS**
+<h3 align="center">Backend</h3>
 
----
-
-## ⚙️ Backend
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,php,python" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,php,python&perline=8" />
 </p>
 
-**Node.js • Express.js • Laravel • Django • PHP • Python • REST APIs**
+<h3 align="center">Mobile Development</h3>
 
----
-
-## 📱 Mobile Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart&perline=8" />
 </p>
 
-**Flutter • Dart**
+<h3 align="center">Databases & ORM</h3>
 
----
-
-## 🗄️ Databases & ORM
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma&perline=8" />
 </p>
 
-**PostgreSQL • MySQL • MongoDB • Prisma ORM**
+<h3 align="center">Cloud, DevOps & Deployment</h3>
 
----
-
-## ☁️ DevOps & Cloud
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,linux" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,linux&perline=8" />
 </p>
 
-**Docker • AWS • Vercel • Render • Git • GitHub • Linux**
-
----
-
-## 🧰 Development Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
-**VS Code • Postman • Figma • GitHub**
+<h3 align="center">Development Tools</h3>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&perline=8" />
+</p>
 
-# 🚀 Featured Projects
 
-## 📚 IELTSHUB
+<!-- ===================== CURRENT PROJECT ===================== -->
 
-> A modern platform focused on creating a better digital experience for IELTS learners.
+<h2 align="center">🚀 Currently Building</h2>
 
-I’m currently developing and improving the platform architecture, UI, application features, APIs and overall user experience.
+<p align="center">
+  <a href="https://github.com/HasibulIslam007/IELTSHUB">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=HasibulIslam007&repo=IELTSHUB&theme=tokyonight&hide_border=true"
+      alt="IELTSHUB"
+    />
+  </a>
+</p>
 
-**Focus Areas**
+<div align="center">
 
-- Modern responsive UI
-- Full-stack application architecture
-- API integration
-- Authentication
-- Database-driven features
-- Scalable development workflow
+### 📚 IELTSHUB
 
-🔗 **Repository:**  
-https://github.com/HasibulIslam007/IELTSHUB
+Currently working on **IELTSHUB** and improving its architecture, features, UI, APIs and overall application experience.
 
----
+[![Repository](https://img.shields.io/badge/View_Repository-IELTSHUB-181717?style=for-the-badge&logo=github)](https://github.com/HasibulIslam007/IELTSHUB)
 
-## 🤖 JobFlow — AI-Powered Job Management Platform
+</div>
 
-A full-stack platform designed to help users organize job applications and automatically extract structured information from different types of job posts.
 
-### Tech Stack
+<!-- ===================== PROJECTS ===================== -->
 
-`Next.js` `TypeScript` `Laravel` `PostgreSQL` `REST API` `Gemini API`
+<h2 align="center">💼 Featured Work</h2>
 
-### Key Features
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 JobFlow
+
+**AI-Powered Job Management Platform**
+
+A full-stack application for managing job opportunities and extracting structured job information using AI.
+
+**Tech**
+
+`Next.js` `TypeScript` `Laravel`  
+`PostgreSQL` `REST APIs` `Gemini API`
+
+**Key Work**
 
 - Authentication & authorization
-- User-specific job management
+- Job management
 - REST API development
-- AI-powered job extraction
-- Text processing
-- PDF parsing
-- Image/OCR processing
+- AI job extraction
+- PDF processing
+- OCR / image processing
 - URL extraction
 - Confidence scoring
 - Missing-field detection
 
----
+</td>
 
-## 🛒 MarketPlace — Full-Stack E-Commerce Platform
+<td width="50%" valign="top">
 
-A complete marketplace application with authentication, products, categories, orders and database-driven functionality.
+### 🛒 MarketPlace
 
-### Tech Stack
+**Full-Stack E-Commerce Platform**
 
-`Next.js` `TypeScript` `Node.js` `Express.js` `Prisma` `PostgreSQL` `JWT`
+A marketplace application with products, categories, authentication, ordering and backend APIs.
 
-### Key Features
+**Tech**
+
+`Next.js` `TypeScript` `Node.js`  
+`Express.js` `Prisma` `PostgreSQL`
+
+**Key Work**
 
 - REST API development
 - JWT authentication
 - Product management
 - Category management
-- User management
 - Order creation
 - Order tracking
 - Database integration
 
----
+</td>
 
-## 🎨 AImage — AI-Powered Image Editing Platform
+</tr>
 
-An application combining web development, backend services and AI-powered image processing.
+<tr>
 
-### Tech Stack
+<td width="50%" valign="top">
 
-`React.js` `Node.js` `Python` `REST APIs` `Cloudinary`
+### 🎨 AImage
 
-### Key Features
+**AI-Powered Image Editing Application**
+
+A web application combining frontend development, backend services and AI-powered image workflows.
+
+**Tech**
+
+`React.js` `Node.js` `Python`  
+`REST APIs` `Cloudinary`
+
+**Key Work**
 
 - Image upload
-- Cloud storage integration
-- Responsive application interface
-- REST API integration
-- Backend processing workflows
-- AI-assisted image functionality
+- Cloud storage
+- API integration
+- Backend processing
+- Responsive UI
+- AI-powered functionality
 
----
+</td>
 
-# 🎯 Currently Working On
+<td width="50%" valign="top">
 
-```text
-📚 IELTSHUB
-🤖 AI Agent Development
-⚙️ Backend Architecture
-🌐 Production-ready Full-Stack Applications
-🐳 Docker
-☁️ AWS & Cloud Deployment
-📱 Flutter Development
-🧠 AI / LLM Integration
+### 🏠 HomeHunt
+
+A modern property-focused web application built as part of my practical full-stack development journey.
+
+**Focus**
+
+- Modern frontend development
+- Responsive UI
+- Application architecture
+- API integration
+- Reusable components
+- Real-world development workflow
+
+[View Repository](https://github.com/HasibulIslam007/homehunt_frontend)
+
+</td>
+
+</tr>
+</table>
+
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+<h2 align="center">🎯 Current Focus</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/IELTSHUB-Current_Project-2962FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Agents-Learning-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend-Architecture-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=for-the-badge&logo=flutter"/>
+
+<img src="https://img.shields.io/badge/AI_Integration-LLM_Apps-FF6F00?style=for-the-badge"/>
+
+</p>
+
+
+<!-- ===================== STATS ===================== -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=HasibulIslam007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  alt="GitHub Stats"
+/>
+
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibulIslam007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Top Languages"
+/>
+
+</p>
+
+
+<!-- ===================== PROFILE SUMMARY ===================== -->
+
+<h2 align="center">📈 Development Overview</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasibulIslam007&theme=tokyonight"
+    width="96%"
+    alt="Profile Details"
+  />
+</p>
+
+<p align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasibulIslam007&theme=tokyonight"
+  width="31%"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HasibulIslam007&theme=tokyonight"
+  width="31%"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HasibulIslam007&theme=tokyonight&utcOffset=6"
+  width="31%"
+/>
+
+</p>
+
+
+<!-- ===================== STREAK ===================== -->
+
+<h2 align="center">🔥 Coding Streak</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=HasibulIslam007&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+
+<h2 align="center">📉 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=HasibulIslam007&theme=tokyo-night&hide_border=true&area=true"
+    width="98%"
+    alt="Contribution Graph"
+  />
+</p>
+
+
+<!-- ===================== PHILOSOPHY ===================== -->
+
+<h2 align="center">💡 How I Like to Build</h2>
+
+<p align="center">
+I enjoy understanding the complete product — from the user interface and backend APIs
+to databases, authentication, deployment and AI integration.
+</p>
+
+<p align="center">
+<b>Build • Debug • Learn • Improve • Ship</b>
+</p>
+
+
+<!-- ===================== CONTACT ===================== -->
+
+<h2 align="center">📬 Let's Connect</h2>
+
+<p align="center">
+I'm open to Software Engineering, Full-Stack, Frontend, Backend,
+Mobile Development and AI-powered application opportunities.
+</p>
+
+<p align="center">
+
+<a href="mailto:hasibulislam.bracu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-hasibulislam.bracu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://portfolio-md-hasibul-islam.vercel.app/">
+  🌐 Portfolio
+</a>
+&nbsp;&nbsp; • &nbsp;&nbsp;
+<a href="https://github.com/HasibulIslam007">
+  💻 GitHub
+</a>
+&nbsp;&nbsp; • &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/md-hasibul-islam-ooo">
+  💼 LinkedIn
+</a>
+
+</p>
+
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=12,2,20,24,30"
+    width="100%"
+  />
+</p>
